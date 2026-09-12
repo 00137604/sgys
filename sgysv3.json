@@ -1,0 +1,27 @@
+{
+    "urls": [
+       {"url": "https://codeberg.org/sgys/ssdb/raw/branch/main/ncwj.json","name": "⛅孙哥影视主线⛅"},
+       {"url": "https://codeberg.org/sgys/ssdb/raw/branch/main/sgys6.json","name": "⛅孙哥影视副线⛅"},
+       {"url": "https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj","name": "⛅孙哥影视影视备用⛅"},
+       {"url": "https://codeberg.org/sgys/ssdb/raw/branch/main/lxys.json","name": "⛅孙哥影视茴香副线⛅"},
+       {"url": "https://codeberg.org/sgys/ssdb/raw/branch/main/sgys.json","name": "⛅孙哥影视8.29副线⛅"},
+       {"url": "https://codeberg.org/sgys/ssdb/raw/branch/main/tinghao.json","name": "⛅孙哥影视挺好副线⛅"},
+       {"url": "http://fty.888484.xyz/tv","name": "☁饭太硬主线路☁"},
+       {"url": "http://fty.xxooo.cf/tv","name": "☁饭太硬备用线路☁"},
+       {"url": "http://www.tangsan.fun/tv/","name": "☁小米☁"},
+       {"url": "http://tvbox.王二小放牛娃.top","name": "☁王二小放牛娃线路☁"},
+       {"url": "http://tv.nxog.top/m","name": "☁讴歌线路☁"},
+           {
+        "name": "☁俊佬仓库☁",
+        "url": "http://home.jundie.top:81/top98.json"
+        },
+    {
+        "name": "☁孙哥影视孙哥独家维护☁",
+        "url": "https://codeberg.org/sgys/ssdb/raw/branch/main/yfys.json"
+        },
+    {
+        "name": "☁欧歌网盘仓库☁",
+        "url": "https://xn--2qg-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌2qg"
+        }
+]
+}
